@@ -43,17 +43,17 @@ Experienced Full Stack Developer(MERN). Skilled in JavaScript, and DSA. Strong e
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/heisenpreet"><img src="https://github-readme-stats.vercel.app/api?username=heisenpreet&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="heisenpreet's GitHub stats" /></a>
+<a href="http://www.github.com/heisenpreet"><img src="https://github-readme-stats.vercel.app/api?username=heisenpreet&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="heisenpreet's GitHub stats" /></a>
 
-<a href="https://github.com/heisenpreet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenpreet&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/heisenpreet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenpreet&langs_count=10&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/heisenpreet/Planetary-Chai-Shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=Planetary-Chai-Shop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/heisenpreet/MyBasket-ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=MyBasket-ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/heisenpreet/Planetary-Chai-Shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=Planetary-Chai-Shop&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/heisenpreet/MyBasket-ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=MyBasket-ecommerce&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/heisenpreet/harpreetsingh" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=harpreetsingh&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/heisenpreet/Haven-Homes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=Haven-Homes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/heisenpreet/harpreetsingh" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=harpreetsingh&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/heisenpreet/Haven-Homes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=heisenpreet&repo=Haven-Homes&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
